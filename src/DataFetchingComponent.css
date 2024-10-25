@@ -1,0 +1,20 @@
+/* src/DataFetchingComponent.css */
+.data-container {
+    background-color: white; /* Білий фон для контейнера */
+    border-radius: 8px; /* Закруглені краї */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Тінь для глибини */
+    padding: 20px; /* Внутрішні відступи */
+    margin: 20px auto; /* Центрування контейнера */
+    max-width: 600px; /* Максимальна ширина */
+}
+
+.title {
+    font-size: 24px; /* Розмір шрифту для заголовка */
+    font-weight: bold; /* Жирний текст */
+    margin-bottom: 10px; /* Відступ знизу */
+}
+
+.body {
+    font-size: 16px; /* Розмір шрифту для тексту */
+    line-height: 1.5; /* Висота рядка для читабельності */
+}
